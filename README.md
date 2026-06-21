@@ -12,7 +12,7 @@ Velosi (Grup 17)
 
 ## Ürün İsmi
 
---PLF--
+-PLF-
 
 ## Ürün Açıklaması
 
