@@ -17,25 +17,19 @@ Velosi (Grup 17)
 ## Ürün Açıklaması
 
 - YZTA Graduation Project
+  Offline harita uygulaması, istenilen konumu değil ayrıca istenilen nesneleride bulabileceğiniz databaseden veri çeken python temlli masaüstü uygulaması.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- İstenilen öğeleri tek veya çoklu seçim. 
+- Basit arayüz ile tek yerden tüm database erişimi.
+- Şehirde ki tüm nesneleri seçim olmadanda görebilme.
+- Önceki aramaları kombinleme ile tahmini tam konum bulma.
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
-
-## Product Backlog URL
-
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+- Haritacılık ile ilgilenenler
+- Özel sektör
 
 ---
 
