@@ -8,7 +8,7 @@ Velosi (Grup 17)
 
 | Name | Title | Social |
 |:-------:| :-----:| :--------:|
-| <a href="https://github.com/velosiii" style="text-decoration:none; color:blue;">Melisa Nur Alparslan</a> | Scrum Master | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/velosi/) |
+| <a href="https://github.com/velosiii" style="text-decoration:none; color:blue;">Yiğit Dincer</a> | Scrum Master | [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/>](https://www.linkedin.com/in/velosi/) |
 
 ## Ürün İsmi
 
