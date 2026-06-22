@@ -39,8 +39,7 @@ Velosi (Grup 17)
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Grupta tek kişi olamam sebebi ile toplantı ve hikaye kısımlarına olan özenm azaltıldı
-   [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Grupta tek kişi olamam sebebi ile toplantı ve hikaye kısımlarına olan özen azaltıldı
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Sprint1.png) 
