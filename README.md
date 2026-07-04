@@ -51,8 +51,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu**: Ekran görüntüleri:
 ![SS1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/App_Konum.png)
-![SS2](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/App_Konum.png)
-![SS3](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/App_Konum.png)
+![SS2](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Secimpng)
+![SS3](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Konumlar.png)
 
 - **Sprint Review**: 
 Alınan kararlar: Hikaye kısımlarının azaltılması ile aklıma gelen herşeyi to do kısmına eklemeye ve bunları tamamlama üzerine bir yol belirledim.Tam sprint hazırlamayı başardım ama tam olmadı gibi bu sebepten app geliştirmeye daha çok odaklandım.
