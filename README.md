@@ -51,7 +51,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu**: Ekran görüntüleri:
 ![SS1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/App_Konum.png)
-![SS2](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Secimpng)
+![SS2](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Secim.png)
 ![SS3](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Konumlar.png)
 
 - **Sprint Review**: 
