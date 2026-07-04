@@ -12,7 +12,7 @@ Velosi (Grup 17)
 
 ## Ürün İsmi
 
--PLF-
+-PLF ---> Spyex-
 
 ## Ürün Açıklaması
 
@@ -30,6 +30,7 @@ Velosi (Grup 17)
 
 - Haritacılık ile ilgilenenler
 - Özel sektör
+- Siber silah
 
 ---
 
@@ -45,14 +46,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Sprint1.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+![SS1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/App_Konum.png)
 
 - **Sprint Review**: 
-Alınan kararlar: Hikaye kısımlarının azaltılması ile aklıma gelen herşeyi to do kısmına eklemeye ve bunları tamamlama üzerine bir yol belirledim.
+Alınan kararlar: Hikaye kısımlarının azaltılması ile aklıma gelen herşeyi to do kısmına eklemeye ve bunları tamamlama üzerine bir yol belirledim.Tam sprint hazırlamayı başardım ama tam olmadı gibi bu sebepten app geliştirmeye daha çok odaklandım.
 
 - **Sprint Retrospective:**
   - Sprint'e daha fazla özen gerekiyor
   - Dolu gözükmesi için en küçük iş bile oraya girilmeli
-  - 1. ve 2. madde yapılırken şikayet edilmemeli  
+  - 1.ve 2. madde yapılırken şikayet edilmemeli  
 
 ---
 
