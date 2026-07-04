@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./header.svg" alt="Velosi Header" />
+</p>
+
 # **Takım İsmi**
 
 Velosi (Grup 17)
