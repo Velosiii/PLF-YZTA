@@ -68,6 +68,25 @@ Alınan kararlar: Hikaye kısımlarının azaltılması ile aklıma gelen herşe
 ---
 
 # Sprint 2
+- **Backlog düzeni ve Story seçimleri**: Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Yeni eklenen ve eklenmesi planlanan şeyler eklendi, İyileştirme konusundaki fikirler ve sıkıntılı buglar çözüldü.
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Sprint2.png) 
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![SS1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/EP.png)
+
+- **Sprint Review**: 
+Alınan kararlar: 
+
+- **Sprint Retrospective:**
+  - Sprint'e yapılan işler eklendi
+  - Dolu gözükmesi için en küçük iş bile oraya girilmeli
+  - 1.ve 2. madde yapılırken şikayet edilmemeli  
 
 
 ---
