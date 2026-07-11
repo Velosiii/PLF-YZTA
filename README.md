@@ -40,7 +40,11 @@ Velosi (Grup 17)
 
 # Sprint 1
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+- Sprint içinde tamamlanması tahmin edilen puan: 10 Puan
+
+Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam 30 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 10 ile başlaması gerektiği düşündüm.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
@@ -70,6 +74,10 @@ Alınan kararlar: Hikaye kısımlarının azaltılması ile aklıma gelen herşe
 # Sprint 2
 - **Backlog düzeni ve Story seçimleri**: Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
+- Sprint içinde tamamlanması tahmin edilen puan: 10 Puan
+
+Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam 30 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ikinci sprintin 10 ile devam etmesini düşündüm.
+
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Yeni eklenen ve eklenmesi planlanan şeyler eklendi, İyileştirme konusundaki fikirler ve sıkıntılı buglar çözüldü.
@@ -81,12 +89,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![SS1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/EP.png)
 
 - **Sprint Review**: 
-Alınan kararlar: 
+Alınan kararlar: App arayüzü biraz basit gözüküyor bu sebepten UI değişikliği düşünüldü bunun yanındada database'e veri ekleme gibi diğer önemli adımlarda eklendi.Web arayüzündeki buglar temizlendi.Kod aralarındaki gereksiz kodlar kaldırıldı.
 
 - **Sprint Retrospective:**
   - Sprint'e yapılan işler eklendi
-  - Dolu gözükmesi için en küçük iş bile oraya girilmeli
-  - 1.ve 2. madde yapılırken şikayet edilmemeli  
+  - Database ve ona veri eklenmesini kolaylaştıran EP sistemi güncellemeleri
+  - Projenin ilerleme sağladığı görülüyor  
 
 
 ---
