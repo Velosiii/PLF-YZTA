@@ -44,9 +44,9 @@ Velosi (Grup 17)
 
 - Sprint içinde tamamlanması tahmin edilen puan: 10 Puan
 
-Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam 30 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 10 ile başlaması gerektiği düşündüm.
+  - Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam 30 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 10 ile başlaması gerektiği düşündüm.
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+  - Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Grupta tek kişi olamam sebebi ile toplantı ve hikaye kısımlarına olan özen azaltıldı
 
@@ -76,9 +76,9 @@ Alınan kararlar: Hikaye kısımlarının azaltılması ile aklıma gelen herşe
 
 - Sprint içinde tamamlanması tahmin edilen puan: 10 Puan
 
-Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam 30 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ikinci sprintin 10 ile devam etmesini düşündüm.
+  - Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam 30 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ikinci sprintin 10 ile devam etmesini düşündüm.
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+  - Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**: Yeni eklenen ve eklenmesi planlanan şeyler eklendi, İyileştirme konusundaki fikirler ve sıkıntılı buglar çözüldü.
 
