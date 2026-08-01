@@ -114,11 +114,11 @@ Alınan kararlar: App arayüzü biraz basit gözüküyor bu sebepten UI değişi
 ![Backlog 1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Sprint3.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![SS1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/lasyversion baby.png)
+![SS1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/lasyversion_baby.png)
 
 <p align="center">
-  <img src="https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Secim.png" width="37%" />
-  <img src="https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Konumlar.png" width="48%" />
+  <img src="https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/222.png" width="37%" />
+  <img src="https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/bina.png" width="48%" />
 </p>
 
 - **Sprint Review**: 
