@@ -100,5 +100,32 @@ Alınan kararlar: App arayüzü biraz basit gözüküyor bu sebepten UI değişi
 ---
 
 # Sprint 3
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
+- Sprint içinde tamamlanması tahmin edilen puan: 10 Puan
+
+  - Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam 30 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 10 ile başlaması gerektiği düşündüm.
+
+  - Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Grupta tek kişi olamam sebebi ile toplantı ve hikaye kısımlarına olan özen azaltıldı
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Sprint1.png) 
+
+- **Ürün Durumu**: Ekran görüntüleri:
+![SS1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/App_Konum.png)
+
+<p align="center">
+  <img src="https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Secim.png" width="37%" />
+  <img src="https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Konumlar.png" width="48%" />
+</p>
+
+- **Sprint Review**: 
+Alınan kararlar: Hikaye kısımlarının azaltılması ile aklıma gelen herşeyi to do kısmına eklemeye ve bunları tamamlama üzerine bir yol belirledim.Tam sprint hazırlamayı başardım ama tam olmadı gibi bu sebepten app geliştirmeye daha çok odaklandım.
+
+- **Sprint Retrospective:**
+  - Sprint'e daha fazla özen gerekiyor
+  - Dolu gözükmesi için en küçük iş bile oraya girilmeli
+  - 1.ve 2. madde yapılırken şikayet edilmemeli  
 ---
