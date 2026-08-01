@@ -111,10 +111,10 @@ Alınan kararlar: App arayüzü biraz basit gözüküyor bu sebepten UI değişi
 - **Daily Scrum**: Grupta tek kişi olamam sebebi ile toplantı ve hikaye kısımlarına olan özen azaltıldı
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Sprint1.png) 
+![Backlog 1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Sprint3.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-![SS1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/App_Konum.png)
+![SS1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/lasyversion baby.png)
 
 <p align="center">
   <img src="https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Secim.png" width="37%" />
