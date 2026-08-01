@@ -120,11 +120,6 @@ Alınan kararlar: App arayüzü biraz basit gözüküyor bu sebepten UI değişi
 <p align="center">
   <img src="https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/222.png" width="50%" />
 </p>
-![SS3](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/222.png)
-<p align="center">
-  <img src="https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/222.png" width="37%" />
-  <img src="https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/bina.png" width="48%" />
-</p>
 
 - **Sprint Review**: 
 Alınan kararlar: Database kısmına demo için yeterli sayılacak data eklendi ve testleri gerçekleştirildi. Yeni eklenen toplu arama özelliğine sonradan yeni özellikler eklendi,Grupların renk ayarları ve ayarlana bilir daire yarı çapı ile arama kolaylığıda eklendi.
