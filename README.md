@@ -115,7 +115,9 @@ Alınan kararlar: App arayüzü biraz basit gözüküyor bu sebepten UI değişi
 
 - **Ürün Durumu**: Ekran görüntüleri:
 ![SS3](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/lasyversion_baby.png)
-
+![SS3](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/bina.png)
+- **Grup arama sonucu**:
+![SS3](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/222.png)
 <p align="center">
   <img src="https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/222.png" width="37%" />
   <img src="https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/bina.png" width="48%" />
