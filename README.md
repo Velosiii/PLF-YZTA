@@ -104,14 +104,14 @@ Alınan kararlar: App arayüzü biraz basit gözüküyor bu sebepten UI değişi
 
 - Sprint içinde tamamlanması tahmin edilen puan: 10 Puan
 
-  - Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam 30 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 10 ile başlaması gerektiği düşündüm.
+  - Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam 30 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde son sprintin 10 ile bitmesi gerektiği düşündüm.
 
   - Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Grupta tek kişi olamam sebebi ile toplantı ve hikaye kısımlarına olan özen azaltıldı
+- **Daily Scrum**: İş çıkışı sonrasında kalan zamanlarda yapmama rahmen sandığımdan iyi oldu, plannanan herşeyi ekletim. Son versiyonunda bina görünümü ve toplu arama kısmının buglarıda temizlendi.
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Sprint3.png) 
+![Backlog 3](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/Sprint3.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
 ![SS3](https://github.com/Velosiii/PLF-YZTA/blob/main/Storage/lasyversion_baby.png)
@@ -122,10 +122,10 @@ Alınan kararlar: App arayüzü biraz basit gözüküyor bu sebepten UI değişi
 </p>
 
 - **Sprint Review**: 
-Alınan kararlar: Hikaye kısımlarının azaltılması ile aklıma gelen herşeyi to do kısmına eklemeye ve bunları tamamlama üzerine bir yol belirledim.Tam sprint hazırlamayı başardım ama tam olmadı gibi bu sebepten app geliştirmeye daha çok odaklandım.
+Alınan kararlar: Database kısmına demo için yeterli sayılacak data eklendi ve testleri gerçekleştirildi. Yeni eklenen toplu arama özelliğine sonradan yeni özellikler eklendi,Grupların renk ayarları ve ayarlana bilir daire yarı çapı ile arama kolaylığıda eklendi.
 
 - **Sprint Retrospective:**
-  - Sprint'e daha fazla özen gerekiyor
-  - Dolu gözükmesi için en küçük iş bile oraya girilmeli
-  - 1.ve 2. madde yapılırken şikayet edilmemeli  
+  - Planlanan ve yeni özelliklerin sonucunda gelenl herşey sıkıntısız çalışıyor.
+  - Demo ürün hazır
+  - Projeyi bitirmiş,gururlu...
 ---
