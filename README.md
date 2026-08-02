@@ -100,7 +100,7 @@ Alınan kararlar: App arayüzü biraz basit gözüküyor bu sebepten UI değişi
 ---
 
 # Sprint 3
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+- **Backlog düzeni ve Story seçimleri**: Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 - Sprint içinde tamamlanması tahmin edilen puan: 10 Puan
 
@@ -125,7 +125,7 @@ Alınan kararlar: App arayüzü biraz basit gözüküyor bu sebepten UI değişi
 Alınan kararlar: Database kısmına demo için yeterli sayılacak data eklendi ve testleri gerçekleştirildi. Yeni eklenen toplu arama özelliğine sonradan yeni özellikler eklendi,Grupların renk ayarları ve ayarlana bilir daire yarı çapı ile arama kolaylığıda eklendi.
 
 - **Sprint Retrospective:**
-  - Planlanan ve yeni özelliklerin sonucunda gelenl herşey sıkıntısız çalışıyor.
+  - Planlanan ve yeni özelliklerin sonucunda gelen herşey sıkıntısız çalışıyor.
   - Demo ürün hazır
   - Projeyi bitirmiş,gururlu...
 ---
